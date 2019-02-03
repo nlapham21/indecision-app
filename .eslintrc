@@ -17,6 +17,7 @@
         "react/jsx-indent" : ["error", 4, { "props": 4 }],
         "react/jsx-one-expression-per-line": "off",    
         "react/react-in-jsx-scope": "off",
+        "react/destructuring-assignment": ["enabled", "never"],
         "react/jsx-indent-props": ["error", 4],
         "class-methods-use-this": "warn",
         "no-use-before-define": ["error", { "functions": true, "classes": true, "variables": false }],
